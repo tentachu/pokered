@@ -1,12 +1,10 @@
 _MomWakeUpText::
-	text "MOM: Right."
-	line "All boys leave"
-	cont "home some day."
-	cont "It said so on TV."
-
-	para "PROF.OAK, next"
-	line "door, is looking"
-	cont "for you."
+	text "MOM: Ah, good"
+	line "morning, honey!"
+	
+	para "Are you excited"
+	line "to go on your"
+	cont "adventure?"
 	done
 
 _MomHealText1::
@@ -24,10 +22,12 @@ _MomHealText2::
 	done
 
 _StandByMeText::
-	text "There's a movie"
-	line "on TV. Four boys"
-	cont "are walking on"
-	cont "railroad tracks."
+	text "An old man and"
+	line "a young woman"
+	cont "are standing"
+	cont "outside some"
+	cont "sort of blue"
+	cont "telephone box."
 
 	para "I better go too."
 	done

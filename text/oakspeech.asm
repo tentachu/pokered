@@ -3,27 +3,28 @@ _OakSpeechText1::
 	line "Welcome to the"
 	cont "world of #MON!"
 
-	para "My name is OAK!"
-	line "People call me"
-	cont "the #MON PROF!"
+	para "My name is RED!"
+	line "I used to be a"
+	cont "trainer just"
+	cont "like you are"
+	cont "about to become."
+	
+	para "Now I study"
+	line "#MON for a"
+	cont "living."
 	prompt
 
 _OakSpeechText2A::
-	text "This world is"
-	line "inhabited by"
-	cont "creatures called"
-	cont "#MON!@@"
+	text "This was my first"
+	line "#MON, a"
+	cont "CHARMANDER.@@"
 
 _OakSpeechText2B::
-	text $51,"For some people,"
-	line "#MON are"
-	cont "pets. Others use"
-	cont "them for fights."
+	text $51,"You too will"
+	line "be able to choose"
+	cont "a #MON all of"
+	cont "your own."
 
-	para "Myself..."
-
-	para "I study #MON"
-	line "as a profession."
 	prompt
 
 _IntroducePlayerText::
@@ -32,24 +33,28 @@ _IntroducePlayerText::
 	prompt
 
 _IntroduceRivalText::
-	text "This is my grand-"
-	line "son. He's been"
-	cont "your rival since"
-	cont "you were a baby."
+	text "This is my son."
+	line "You and him used"
+	cont "to bicker all"
+	cont "the time when"
+	cont "you were kids."
 
-	para "...Erm, what is"
-	line "his name again?"
+	para "...Well, this"
+	line "is awkward. I've"
+	cont "forgotten my"
+	cont "own son's name."
+	
+	para "...Help?"
+	
 	prompt
 
 _OakSpeechText3::
 	text $52,"!"
 
-	para "Your very own"
-	line "#MON legend is"
-	cont "about to unfold!"
-
-	para "A world of dreams"
-	line "and adventures"
-	cont "with #MON"
-	cont "awaits! Let's go!"
+	para "Are you ready to"
+	line "begin your very"
+	cont "own #MON"
+	cont "journey?"
+	para "It all begins"
+	line "now! Good luck!"
 	done

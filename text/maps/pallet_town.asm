@@ -1,42 +1,52 @@
 _OakAppearsText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@@"
+	text "RED: Woah!"
+	line "What do you think"
+	cont "you're doing?!@@"
 
 _OakWalksUpText::
-	text "OAK: It's unsafe!"
-	line "Wild #MON live"
-	cont "in tall grass!"
+	text "RED: It's very"
+	line "dangerous to go"
+	cont "out into the wild"
+	cont "grass without a"
+	cont "#MON!"
 
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
-	cont "I know!"
+	para "...Oh, yes!"
+	line "Today's the day,"
+	cont "isn't it?"
+	para "The day where I"
+	line "give you your"
+	cont "very own #MON."
 
 	para "Here, come with"
 	line "me!"
 	done
 
 _PalletTownText2::
-	text "I'm raising"
-	line "#MON too!"
-
-	para "When they get"
-	line "strong, they can"
-	cont "protect me!"
+	text "There is a field"
+	line "behind these"
+	cont "trees."
+	para "Legend has it"
+	line "that incredibly"
+	cont "rare #MON live"
+	cont "there."
+	para "If only someone"
+	line "was bothered"
+	cont "enough to take"
+	cont "a look..."
 	done
 
 _PalletTownText3::
 	text "Technology is"
-	line "incredible!"
-
-	para "You can now store"
-	line "and recall items"
-	cont "and #MON as"
-	cont "data via PC!"
+	line "amazing!"
+	para "You can now"
+	line "convert living"
+	cont "creatures into"
+	cont "data on a PC."
+	para "Whatever next?"
 	done
 
 _PalletTownText4::
-	text "OAK #MON"
+	text "RED #MON"
 	line "RESEARCH LAB"
 	done
 
